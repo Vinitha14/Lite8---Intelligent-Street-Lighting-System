@@ -3,7 +3,9 @@
 · Lite8 is an adaptive lighting technology that aims to provide energy-efficient street lighting systems.
 
 · Controlled the ’on’ time and intensity of street lights using ultrasonic sensors for detecting motion and LDRs for detecting
-external light. Designed a robust network by connecting the lights and sensors in a mesh topology.
+external light. 
+
+· Designed a robust network by connecting the lights and sensors in a mesh topology.
 
 · Built an application using Android Studio and Firebase to monitor the system’s feedback and notify in case of malfunction.
 
